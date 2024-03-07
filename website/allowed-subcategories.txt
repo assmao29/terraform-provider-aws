@@ -1,0 +1,217 @@
+
+ACM (Certificate Manager)
+ACM PCA (Certificate Manager Private Certificate Authority)
+AMP (Managed Prometheus)
+API Gateway
+API Gateway V2
+Account Management
+Amazon Bedrock
+Amplify
+App Mesh
+App Runner
+AppConfig
+AppFlow
+AppIntegrations
+AppStream 2.0
+AppSync
+Application Auto Scaling
+Athena
+Audit Manager
+Auto Scaling
+Auto Scaling Plans
+Backup
+Batch
+CE (Cost Explorer)
+Chime
+Chime SDK Media Pipelines
+Chime SDK Voice
+Clean Rooms
+Cloud Control API
+Cloud Map
+Cloud9
+CloudFormation
+CloudFront
+CloudHSM
+CloudSearch
+CloudTrail
+CloudWatch
+CloudWatch Application Insights
+CloudWatch Evidently
+CloudWatch Internet Monitor
+CloudWatch Logs
+CloudWatch Observability Access Manager
+CloudWatch RUM
+CloudWatch Synthetics
+CodeArtifact
+CodeBuild
+CodeCatalyst
+CodeCommit
+CodeDeploy
+CodeGuru Reviewer
+CodePipeline
+CodeStar Connections
+CodeStar Notifications
+Cognito IDP (Identity Provider)
+Cognito Identity
+Comprehend
+Compute Optimizer
+Config
+Connect
+Control Tower
+Cost and Usage Report
+DLM (Data Lifecycle Manager)
+DMS (Database Migration)
+Data Exchange
+Data Pipeline
+DataSync
+Detective
+Device Farm
+Direct Connect
+Directory Service
+DocumentDB
+DocumentDB Elastic
+DynamoDB
+DynamoDB Accelerator (DAX)
+EBS (EC2)
+EC2 (Elastic Compute Cloud)
+EC2 Image Builder
+ECR (Elastic Container Registry)
+ECR Public
+ECS (Elastic Container)
+EFS (Elastic File System)
+EKS (Elastic Kubernetes)
+ELB (Elastic Load Balancing)
+ELB Classic
+EMR
+EMR Containers
+EMR Serverless
+ElastiCache
+Elastic Beanstalk
+Elastic Transcoder
+Elasticsearch
+Elemental MediaConnect
+Elemental MediaConvert
+Elemental MediaLive
+Elemental MediaPackage
+Elemental MediaStore
+EventBridge
+EventBridge Pipes
+EventBridge Scheduler
+EventBridge Schemas
+FIS (Fault Injection Simulator)
+FMS (Firewall Manager)
+FSx
+FinSpace
+GameLift
+Global Accelerator
+Glue
+GuardDuty
+HealthLake
+IAM (Identity & Access Management)
+IAM Access Analyzer
+IVS (Interactive Video)
+IVS (Interactive Video) Chat
+Inspector
+Inspector Classic
+IoT Analytics
+IoT Core
+IoT Events
+IoT Greengrass
+KMS (Key Management)
+Kendra
+Keyspaces (for Apache Cassandra)
+Kinesis
+Kinesis Analytics
+Kinesis Analytics V2
+Kinesis Firehose
+Kinesis Video
+Lake Formation
+Lambda
+Lex Model Building
+Lex V2 Models
+License Manager
+Lightsail
+Location
+MQ
+MWAA (Managed Workflows for Apache Airflow)
+Macie
+Managed Grafana
+Managed Streaming for Kafka
+Managed Streaming for Kafka Connect
+MemoryDB for Redis
+Meta Data Sources
+Neptune
+Network Firewall
+Network Manager
+OpenSearch
+OpenSearch Ingestion
+OpenSearch Serverless
+OpsWorks
+Organizations
+Outposts
+Outposts (EC2)
+Pinpoint
+Pricing Calculator
+QLDB (Quantum Ledger Database)
+QuickSight
+RAM (Resource Access Manager)
+RDS (Relational Database)
+Recycle Bin (RBin)
+Redshift
+Redshift Data
+Redshift Serverless
+Resource Explorer
+Resource Groups
+Resource Groups Tagging
+Roles Anywhere
+Route 53
+Route 53 Domains
+Route 53 Recovery Control Config
+Route 53 Recovery Readiness
+Route 53 Resolver
+S3 (Simple Storage)
+S3 Control
+S3 Glacier
+S3 on Outposts
+SDB (SimpleDB)
+SES (Simple Email)
+SESv2 (Simple Email V2)
+SFN (Step Functions)
+SNS (Simple Notification)
+SQS (Simple Queue)
+SSM (Systems Manager)
+SSM Contacts
+SSM Incident Manager Incidents
+SSO Admin
+SSO Identity Store
+STS (Security Token)
+SWF (Simple Workflow)
+SageMaker
+Secrets Manager
+Security Hub
+Security Lake
+Serverless Application Repository
+Service Catalog
+Service Quotas
+Shield
+Signer
+Storage Gateway
+Timestream Write
+Transcribe
+Transfer Family
+Transit Gateway
+VPC (Virtual Private Cloud)
+VPC IPAM (IP Address Manager)
+VPC Lattice
+VPN (Client)
+VPN (Site-to-Site)
+Verified Access
+Verified Permissions
+WAF
+WAF Classic
+WAF Classic Regional
+Wavelength
+Web Services Budgets
+WorkLink
+WorkSpaces
+X-Ray
